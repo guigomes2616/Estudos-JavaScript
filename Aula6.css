@@ -1,0 +1,47 @@
+*{
+    font-family:'Calibri';
+    color:antiquewhite;
+    background-color: teal;
+}
+
+input{
+    background-color:gray;
+    width: 15%;
+    height: auto;
+    font-size: 15px;
+    margin: 10px;
+}
+
+#btn{
+    display: flex;
+    margin: 10px;
+    width: 5.5%;
+    height: 30px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+label{
+    font-size: 20px;
+}
+
+p{
+    padding: 5px;
+    margin: 0%;
+}
+
+span{
+    align-items: baseline;
+    font-size: 20px;
+}
+
+img{
+    padding: 50px;
+    align-items: center;
+    width: 90%;
+    height: auto;
+}

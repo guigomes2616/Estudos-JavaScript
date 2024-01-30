@@ -1,0 +1,14 @@
+body{
+    font-size: 18pt;
+    font-family: 'Calibri';
+}
+
+input{
+    font-size: 18pt;
+    width: 100px;
+
+}
+
+div#res{
+    margin-top: 20px;
+}
